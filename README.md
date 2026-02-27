@@ -46,5 +46,6 @@ mvn spring-boot:run
 cd api-gateway
 mvn spring-boot:run
 
-# End point
-http://localhost:8080/orders
+# End points
+http://localhost:8761/
+ttp://localhost:8080/orders
