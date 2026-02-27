@@ -45,3 +45,6 @@ mvn spring-boot:run
 # API Gateway
 cd api-gateway
 mvn spring-boot:run
+
+# End point
+http://localhost:8080/orders
